@@ -1,0 +1,21 @@
+.first-class,
+.second-class,
+.third-class {
+    background-color: rgb(236, 105, 105);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#one {
+    color: blue;
+    font-size: 32px;
+}
+
+.second-class {
+    font-size: 24px;
+}
+
+#two {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
